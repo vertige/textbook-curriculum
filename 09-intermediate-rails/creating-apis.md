@@ -204,6 +204,4 @@ end
 
 ## Resources
 - [`.as_json` documentation](http://api.rubyonrails.org/classes/ActiveModel/Serializers/JSON.html#method-i-as_json)
-- [ActiveModel Serializers](http://railscasts.com/episodes/409-active-model-serializers)
-- [blog post by thoughtbot about serialization](http://robots.thoughtbot.com/better-serialization-less-as-json)
 - [Rails API Development Guide](http://edgeguides.rubyonrails.org/api_app.html)
